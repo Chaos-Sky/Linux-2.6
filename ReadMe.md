@@ -9,6 +9,8 @@
         /src/kernel 内核/根文件系统等
         /src/software 软件(三环)
         /src/tools  windows下的内核源码阅读工具
+        /src/pdf 一些参考数据和资料
+        /src/script 实验用的脚本
     /test 一些笔记，未整理
 
 ## 视频讲解均以docker 加 vscode
